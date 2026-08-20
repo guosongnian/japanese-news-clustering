@@ -31,7 +31,7 @@
 
 ## 运行
 
-建议使用 Python 3.11 或更高版本；GitHub Actions 使用 Python 3.12 自动检查稳定性计算与语法。
+建议使用 Python 3.11 或更高版本；GitHub Actions 使用 Python 3.12 自动检查依赖、模块导入和语法。
 
 ```bash
 git clone https://github.com/guosongnian/japanese-news-clustering.git
